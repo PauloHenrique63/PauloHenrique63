@@ -49,6 +49,10 @@
 
 ###
 
+<h2 align="left">Sobre Mim</h2>
+
+###
+
 <p align="left">Olá! Sou Paulo Henrique, profissional no Banco Bradesco. Estou focado no desenvolvimento de habilidades em Databricks, SQL e Python para gerar insights e impulsionar decisões estratégicas. Cursando Análise e Desenvolvimento de Sistemas na FIAP, direciono meu aprendizado para soluções orientadas a dados, buscando constantemente aprimorar meu senso crítico e colaborar para resultados de alto impacto.</p>
 
 ###
