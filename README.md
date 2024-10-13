@@ -40,12 +40,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PauloHenrique63/PauloHenrique63/output/snake.svg" alt="Snake animation" />
+<p align="left">Olá! Sou Paulo Henrique, profissional no Banco Bradesco. Estou focado no desenvolvimento de habilidades em Databricks, SQL e Python para gerar insights e impulsionar decisões estratégicas. Cursando Análise e Desenvolvimento de Sistemas na FIAP, direciono meu aprendizado para soluções orientadas a dados, buscando constantemente aprimorar meu senso crítico e colaborar para resultados de alto impacto.</p>
 
 ###
 
-<p align="left">Olá! Sou Paulo Henrique, profissional no Banco Bradesco. Estou focado no desenvolvimento de habilidades em Databricks, SQL e Python para gerar insights e impulsionar decisões estratégicas. Cursando Análise e Desenvolvimento de Sistemas na FIAP, direciono meu aprendizado para soluções orientadas a dados, buscando constantemente aprimorar meu senso crítico e colaborar para resultados de alto impacto.</p>
+<img src="https://raw.githubusercontent.com/PauloHenrique63/PauloHenrique63/output/snake.svg" alt="Snake animation" />
 
 ###
